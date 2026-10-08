@@ -1,6 +1,6 @@
 # Nishant Singh — Portfolio
 
-A responsive, dependency-free personal portfolio built with HTML, CSS, and JavaScript: [nishantsingh93.github.io](https://nishantsingh93.github.io/).
+A responsive, dependency-free personal portfolio built with HTML, CSS, and JavaScript: [nishantsingh-builds.github.io](https://nishantsingh-builds.github.io/).
 
 ## Local preview
 
