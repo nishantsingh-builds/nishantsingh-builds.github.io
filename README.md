@@ -17,4 +17,4 @@ Then visit http://localhost:8000. You can also open `index.html` directly. No in
 - `index.html`: biography, education, project links, and page structure.
 - `styles.css`: colors, typography, responsive layouts, and reduced-motion support.
 - `script.js`: project filters, mobile navigation, and decorative plot.
-- `assets/`: local GitHub portrait, original SVG favicon, and downloadable resume PDF.
+- `assets/`: local GitHub portrait and original SVG favicon.

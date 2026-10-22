@@ -28,6 +28,9 @@ filters.forEach(button => button.addEventListener('click', () => {
     project.hidden = button.dataset.filter !== 'all' && !project.dataset.category.split(' ').includes(button.dataset.filter);
     if (!project.hidden) count++;
   });
+  document.querySelectorAll('.project-group').forEach(group => {
+    group.hidden = !group.querySelector('.project:not([hidden])');
+  });
   document.querySelector('#filter-status').textContent = `${count} projects shown`;
 }));
 // Deterministic decorative points; this is an illustration, not project results.
